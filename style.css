@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ff407b;
+background-image: url(https://e0.pxfuel.com/wallpapers/863/814/desktop-wallpaper-valentine-memories-love-couple-moon-shadow-sunset-heart-silouhette-thumbnail.jpg);    
+}
+
+  
+  .container {
+    text-align: center;
+  }
+  
+  button {
+    padding: 12px 20px;
+    font-size: 18px;
+    background-color: #ff407b;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #d1305e;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  #proposalMessage {
+    background-color: bisque;
+   
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 20px auto;
+   
+
+  }
+  
+  #proposalMessage h1 {
+    color: #ff407b;
+    
+  }
+  
+  #proposalMessage p {
+    font-size: 20px;
+    line-height: 1.6;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  #proposalMessage .love {
+    color: #ff407b;
+    font-weight: bold;
+  }
+  #proposalMessage h2{
+    color: #d1305e;
+  }
+  .neonText {
+    color: #b6bdb7;
+    text-shadow:
+        0 0 7px #6c4141,
+        0 0 10px #624242,
+        0 0 21px #330d0d,
+        0 0 42px rgb(43, 0, 255),
+        0 0 82px rgb(255, 0, 21),
+        0 0 92px rgb(255, 0, 174),
+        0 0 102px rgb(242, 0, 255),
+        0 0 151px rgb(255, 77, 0);
+  }
+  
+  /* Additional styling */
+    
+  body {
+    font-size: 18px;
+    font-family: "Vibur", sans-serif;
+    background-color: #010a01;
+  }  
+  
+  h3, h4 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 200;
+  }
+    
+  h3{
+      font-size: 2.2rem;
+  }
+    
+  h4 {
+      font-size: 1.3rem;
+  }
+  
+  .container {
+    margin-top: 10vh;
+  }
